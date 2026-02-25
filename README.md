@@ -15,7 +15,7 @@ Beginner-friendly **C/C++ projects**, DSA practice sessions, and basic Python pr
 Improving advanced problem-solving skills, mastering **Data Structures & Algorithms**, and optimizing **time complexity**.
 
 🌱 I’m currently learning  
-Advanced **C++**, STL, DSA problem solving, and algorithmic thinking.
+Advanced **C++**, STL, **DSA** problem solving, and algorithmic thinking.
 
 💬 Ask me about  
 C programming, C++ (OOP), Time Complexity, Linked List, Stack, Queue, Binary Tree, STL, and beginner to intermediate DSA.
