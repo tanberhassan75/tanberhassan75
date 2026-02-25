@@ -1,6 +1,69 @@
-# 💫 About Me:
-🛠 I’m currently working on<br>Studying Computer Science & Technology at a Polytechnic and practicing Data Structures & Algorithms using C++.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly C/C++ projects, DSA practice sessions, and basic Python projects.<br><br>🆘 I’m looking for help with<br>Improving problem-solving skills, mastering Data Structures & Algorithms, and competitive programming basics.<br><br>🌱 I’m currently learning<br>C and C++ (advanced concepts), DSA with C++, and Python (basic level) through the PHITRON CSE Fundamental Course.<br><br>💬 Ask me about<br>C programming, C++ basics, OOP fundamentals, arrays, loops, functions, and beginner-level DSA.<br><br>⚡ Fun fact<br>I learn best by debugging code and practicing every day 😄
+<h1 align="center">Hi 👋, I'm Tanber Hassan Mehedi</h1>
+<h3 align="center">CSE Student | Competitive Programmer | DSA Learner</h3>
 
+---
+
+## 💫 About Me
+
+🛠 I’m currently studying **Computer Science & Technology** at a Polytechnic  
+and actively doing **Competitive Programming**.
+
+🤝 I’m looking to collaborate on  
+Beginner-friendly **C/C++ projects**, DSA practice sessions, and basic Python projects.
+
+🆘 I’m looking for help with  
+Improving advanced problem-solving skills, mastering **Data Structures & Algorithms**, and optimizing **time complexity**.
+
+🌱 I’m currently learning  
+Advanced **C++**, STL, DSA problem solving, and algorithmic thinking.
+
+💬 Ask me about  
+C programming, C++ (OOP), Time Complexity, Linked List, Stack, Queue, Binary Tree, STL, and beginner to intermediate DSA.
+
+⚡ Fun fact  
+I learn best by debugging code and practicing every single day 😄🔥
+
+---
+
+## 🚀 Skills & Technologies
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📚 Data Structures & Concepts
+- ✅ Time Complexity Analysis  
+- ✅ Arrays  
+- ✅ Prefix Sum  
+- ✅ Singly Linked List  
+- ✅ Doubly Linked List  
+- ✅ Stack  
+- ✅ Queue  
+- ✅ STL (Standard Template Library)  
+- ✅ Binary Tree  
+
+---
+
+## 📈 Competitive Programming
+
+💻 Solving problems regularly on different online judges  
+📊 Focused on improving speed, accuracy, and logical thinking  
+🔥 Goal: Become strong in DSA & problem solving
+
+---
+
+## 🌟 Connect With Me
+
+📫 Always open to learning and collaboration!
+ email : tanberhassanmehedi@gmail.com
+---
+
+<p align="center">
+  🚀 "Consistency + Practice = Improvement"
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tanber Hassan Mehedi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tanber-hassan-mehedi-89b115371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanberhassanmehedi@gmail.com) 
